@@ -8,9 +8,6 @@ Work in progress
 	</a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -67,8 +64,10 @@ Work in progress
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescopaolol&show_icons=true&theme=dark&locale=en" alt="francescopaolol" /></p>
 
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left"></p>
+<a href="https://www.linkedin.com/in/francescopl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francescopaololezza" height="20" width="30" /></a>
+<a href="https://www.kaggle.com/francescopaolol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="francescopaololezza" height="20" width="30" /></a>
 
 <!--
 **FrancescoPaoloL/FrancescoPaoloL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
