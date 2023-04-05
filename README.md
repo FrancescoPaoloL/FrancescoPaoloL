@@ -16,8 +16,8 @@ Work in progress
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 	</a> 
-	<a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> 
+	<a href="https://docs.couchbase.com/server/current/introduction/intro.html" target="_blank" rel="noreferrer"> 
+		<img src="couchbase-logo.jpg" alt="couchbaseserver" width="40" height="40"/> 
 	</a> 
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
