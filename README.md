@@ -64,6 +64,10 @@ Work in progress
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescopaolol&show_icons=true&theme=dark&locale=en" alt="francescopaolol" /></p>
 
+<!-- see https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+	![Snake animation](https://github.com/FrancescoPaoloL/FrancescoPaoloL/github-contribution-grid-snake.svg)
+-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 <a href="https://www.linkedin.com/in/francescopl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francescopaololezza" height="20" width="30" /></a>
