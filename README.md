@@ -9,6 +9,11 @@ WorkInProgress...
 ![FrancescoPaoloL's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoPaoloL&theme=calm&show_icons=true&hide_border=true&count_private=false)
 
 
+![FrancescoPaoloL's Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=FrancescoPaoloL&theme=calm&show_icons=true&hide_border=true&layout=compact)
+
+![FrancescoPaoloL's Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=FrancescoPaoloL&theme=calm&show_icons=true&hide_border=true&count_private=false)
+
+
 <!--
 **FrancescoPaoloL/FrancescoPaoloL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
