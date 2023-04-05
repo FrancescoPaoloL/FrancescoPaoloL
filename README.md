@@ -1,17 +1,16 @@
 ### Hi there 👋, I'm Francesco
 
-WorkInProgress...
+Work in progress
 
-![FrancescoPaoloL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancescoPaoloL&theme=calm&hide_border=true)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescopaolol" alt="francescopaolol" /></a> </p>
 
-![FrancescoPaoloL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPaoloL&theme=calm&show_icons=true&hide_border=true&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![FrancescoPaoloL's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoPaoloL&theme=calm&show_icons=true&hide_border=true&count_private=false)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescopaolol&show_icons=true&theme=dark&locale=en&layout=compact" alt="francescopaolol" /></p>
 
-
-![FrancescoPaoloL's Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=FrancescoPaoloL&theme=calm&show_icons=true&hide_border=true&layout=compact)
-
-![FrancescoPaoloL's Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=FrancescoPaoloL&theme=calm&show_icons=true&hide_border=true&count_private=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescopaolol&show_icons=true&theme=dark&locale=en" alt="francescopaolol" /></p>
 
 
 <!--
