@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=250&color=FFFFFF&multiline=true&width=600&height=180&lines=I+am+a+software+engineer+analyst+who+specializes;in+Python+and+C%23.;My+work+involves+developing+AI+models+using;Pandas%2C+Scikit-learn%2C+and+Jupyter+notebook.;I+love+solving+coding+challenges+and+relish+;opportunities+to+push+my+skills+to+the+limit.+;Welcome+to+my+GitHub+repository!;Hi+there+%F0%9F%91%8B%2C+I'm+Francesco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=250&color=FFFFFF&multiline=true&width=600&height=180&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Francesco;I+am+a+software+engineer+analyst+who+specializes;in+Python+and+C%23.;My+work+involves+developing+AI+models+using;Pandas%2C+Scikit-learn%2C+and+Jupyter+notebook.;I+love+solving+coding+challenges+and+relish+;opportunities+to+push+my+skills+to+the+limit.+;Welcome+to+my+GitHub+repository!)](https://git.io/typing-svg)
 
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
