@@ -58,6 +58,9 @@
 	<!-- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 	</a> --> 
+	<a href="https://github.com/gnu-octave" target="_blank" rel="noreferrer"> 
+		<img src="https://avatars.githubusercontent.com/u/5480630?s=200&v=4" alt="octave" width="40" height="40"/>
+	</a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescopaolol&show_icons=true&theme=dark&locale=en&layout=compact" alt="francescopaolol" /></p>
