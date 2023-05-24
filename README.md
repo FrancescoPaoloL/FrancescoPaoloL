@@ -1,12 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=250&color=8ebf42&multiline=true&width=600&height=190&repeat=false&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Francesco;I+am+a+software+engineer+analyst+who+specializes;in+Python+and+C%23.;I+am+passionate+about+AI+so+my+code+involves+developing+AI;models+using+Pandas%2C+Scikit-learn%2C+and+Jupyter+notebook.;I+love+solving+coding+challenges+and+relish+;opportunities+to+push+my+skills+to+the+limit.+;Welcome+to+my+GitHub+repository!)](https://git.io/typing-svg)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=francescopaolol&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=francescopaolol&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=francescopaolol" alt="francescopaolol" />
 	</a> 
 </p>
+
+</br>
+
 
 <h3 align="left"><b>Languages and Tools</b>:</h3>
 <p align="center" style="background-size: cover; box-shadow: inset 0 0 0 1000px #e6ebef"> 
