@@ -10,7 +10,6 @@
 
 </br>
 
-
 <h3 align="left"><b>Languages and Tools</b>:</h3>
 <p align="center" style="background-size: cover; box-shadow: inset 0 0 0 1000px #e6ebef"> 
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -65,6 +64,18 @@
 		<img src="https://avatars.githubusercontent.com/u/5480630?s=200&v=4" alt="octave" width="40" height="40"/>
 	</a> 
 </p>
+
+<h3 align="left"><b> My Kaggle Activities</b>:</h3>
+
+	- Kernel: A modest example on the Levenshtein distance
+	- Kernel: TestingStreamlit
+	- Kernel: Favorita Forecasting model (1 bronze medal)
+	- Kernel: Titanic dataset (my first submission)
+	- Kernel: DecisionTree_with_Iris_Dataset
+	- Kernel: LogisticRegression_on_Complete_Titanic_Dataset
+	- Kernel: SentimentAnalysis_IMDB_50K_Movie_Review  (1 bronze medal)
+	- Kernel: KC_Houses_With_LinearRegression
+	- Kernel: Use ngrok with streamlit (just a simple example)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescopaolol&show_icons=true&theme=dark&locale=en&layout=compact" alt="francescopaolol" /></p>
 
