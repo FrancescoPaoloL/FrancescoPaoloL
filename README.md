@@ -85,7 +85,7 @@
 	![Snake animation](https://github.com/FrancescoPaoloL/FrancescoPaoloL/github-contribution-grid-snake.svg)
 -->
 
-<img src="HonestWorkMeme.jpg" alt="docker" width="600"/> 
+![HonestWorkMeme](https://github.com/user-attachments/assets/76fec329-0af3-469b-b70a-e1b1c8eaa731)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
