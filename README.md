@@ -72,7 +72,7 @@
 	- Kernel: LogisticRegression_on_Complete_Titanic_Dataset
 	- Kernel: SentimentAnalysis_IMDB_50K_Movie_Review  (1 bronze medal)
 	- Kernel: KC_Houses_With_LinearRegression
-	- Kernel: Use ngrok with streamlit (just a simple example)
+	- Kernel: Use ngrok with streamlit (just a simple example)  (1 bronze medal)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescopaolol&show_icons=true&theme=dark&locale=en&layout=compact" alt="francescopaolol" /></p>
 
