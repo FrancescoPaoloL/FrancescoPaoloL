@@ -2,7 +2,7 @@
 
 I'm a learning-driven developer focused on low-level systems, algorithms, and how things work under the hood.
 
-**Current work**: .NET backend engineer (KTLO) working with production systems, Docker, Kubernetes, MS SQL Server, Couchbase  
+**Current work**: .NET backend engineer (KTLO) working with production systems, Docker, Kubernetes, MS SQL Server, Couchbase
 
 **Current study**: Software security fundamentals, LLM internals, C programming
 
@@ -54,6 +54,7 @@ Always learning, one repo at a time.
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -72,7 +73,7 @@ Always learning, one repo at a time.
 <b>Kaggle Activities</b>
 
 - **Favorita Forecasting model** (1 bronze medal)
-- **SentimentAnalysis IMDB 50K Movie Review** (1 bronze medal)  
+- **SentimentAnalysis IMDB 50K Movie Review** (1 bronze medal)
 - **Use ngrok with streamlit** (1 bronze medal)
 - Levenshtein distance kernel
 - Titanic dataset (first submission)
