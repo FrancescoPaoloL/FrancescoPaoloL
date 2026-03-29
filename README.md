@@ -4,15 +4,16 @@ I'm a learning-driven developer focused on low-level systems, algorithms, and ho
 
 **Current work**: .NET backend engineer (KTLO) working with production systems, Docker, Kubernetes, MS SQL Server, Couchbase
 
-**Current study**: Software security fundamentals, LLM internals, C programming
-
-I use my repositories as a personal lab to study algorithms, understand implementations, and explore new concepts.
+**Current study:** AI security, LLM internals, ethical hacking, C programming
 
 **Tech stack**: C, C#, Python, .NET, Linux, containers, cloud tools
 
-**Interests**: Algorithms, systems programming, security, data engineering, AI/ML concepts, runtime behavior
+**Interests:** Systems programming, security, prompt injection, adversarial examples, low-level algorithms
 
-Always learning, one repo at a time.
+I use this space to study things properly, reading specs, writing code from scratch, understanding why before how.
+
+The repos here are a lab. Sometimes they become something more.
+
 
 ---
 <h4 align="left">OS</h4>
