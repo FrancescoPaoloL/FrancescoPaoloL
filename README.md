@@ -4,7 +4,7 @@ I'm a learning-driven developer focused on low-level systems, algorithms, and ho
 
 **Current work**: .NET backend engineer (KTLO) working with production systems, Docker, Kubernetes, MS SQL Server, Couchbase
 
-**Current study:** AI security, LLM internals, ethical hacking, C programming
+**Current study:** Building toward AI security — ethical hacking (Cisco), LLM internals from first principles, C programming
 
 **Tech stack**: C, C#, Python, .NET, Linux, containers, cloud tools
 
