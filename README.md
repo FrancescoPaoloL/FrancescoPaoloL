@@ -71,17 +71,6 @@ The repos here are a lab. Sometimes they become something more.
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-<b>Kaggle Activities</b>
-
-- **Favorita Forecasting model** (1 bronze medal)
-- **SentimentAnalysis IMDB 50K Movie Review** (1 bronze medal)
-- **Use ngrok with streamlit** (1 bronze medal)
-- Levenshtein distance kernel
-- Titanic dataset (first submission)
-- Decision Tree with Iris Dataset
-- Logistic Regression on Titanic
-- KC Houses with Linear Regression
-
 ---
 <h4 align="left">Connect with me:</h4>
 <a href="https://www.linkedin.com/in/francescopl/" target="_blank">
