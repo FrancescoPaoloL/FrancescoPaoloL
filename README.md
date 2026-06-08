@@ -1,19 +1,10 @@
 ### Hi folks! 👋
 
-I'm a learning-driven developer focused on low-level systems, algorithms, and how things work under the hood.
+Senior backend engineer (.NET/Azure) spending spare time exploring how systems work, and occasionally how they fail.
 
-**Current work**: .NET backend engineer (KTLO) working with production systems, Docker, Kubernetes, MS SQL Server, Couchbase
+I build small tools, read specs, and write things from scratch when I want to understand them deeply. C, Python, Docker, Linux.
 
-**Current study:** Building toward AI security — ethical hacking (Cisco), LLM internals from first principles, C programming
-
-**Tech stack**: C, C#, Python, .NET, Linux, containers, cloud tools
-
-**Interests:** Systems programming, security, prompt injection, adversarial examples, low-level algorithms
-
-I use this space to study things properly, reading specs, writing code from scratch, understanding why before how.
-
-The repos here are a lab. Sometimes they become something more.
-
+The repos here are a lab: some projects remain experiments, others become something more. Most start with a question.
 
 ---
 <h4 align="left">OS</h4>
