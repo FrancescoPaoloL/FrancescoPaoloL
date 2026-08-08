@@ -6,6 +6,8 @@ I build small tools, read specs, and write things from scratch when I want to un
 
 The repos here are a lab: some projects remain experiments, others become something more. Most start with a question.
 
+I keep the old ones too, part of the story: proof of how I learned to work this way.
+
 ---
 <h4 align="left">OS</h4>
 
