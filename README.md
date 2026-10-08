@@ -1,12 +1,12 @@
 ### Hi folks! 👋
 
-Senior backend engineer (.NET/Azure) spending spare time exploring how systems work, and occasionally how they fail.
+Senior Backend Engineer (.NET/Azure) working on AI security. I build open-source tools that make the implicit trust model in LLM systems explicit.
 
-I build small tools, read specs, and write things from scratch when I want to understand them deeply. C, Python, Docker, Linux.
+I read specs and write things from scratch when I want to understand them deeply. C, Python, Docker, Linux.
 
 The repos here are a lab: some projects remain experiments, others become something more. Most start with a question.
 
-I keep the old ones too, part of the story: proof of how I learned to work this way.
+I write about the questions, ideas, and problems I explore at [francescopaolol.github.io](https://francescopaolol.github.io).
 
 ---
 <h4 align="left">OS</h4>
